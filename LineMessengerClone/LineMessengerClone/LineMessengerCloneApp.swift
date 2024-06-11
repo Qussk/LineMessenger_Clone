@@ -7,6 +7,11 @@
 
 import SwiftUI
 
+/*
+ @main
+ App Protocol - main 함수의 기본 구현 제공
+ ScenePhase
+ */
 @main
 struct LineMessengerCloneApp: App {
     var body: some Scene {

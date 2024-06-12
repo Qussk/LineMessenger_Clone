@@ -1,5 +1,6 @@
 # LineMessenger_Clone
 
+
 SwiftUI + MVVM + Combine 
 
 
@@ -8,8 +9,8 @@ SwiftUI + MVVM + Combine
 
 
 
-## Combine
+## Combine 알아보기.
 
-: https://qussk.notion.site/Line-Clone-d755cfddbdfe488683e6d1b873a95dc7?pvs=4
+: https://www.notion.so/qussk/Combine-6cc3c81af1e04ab085999dc01baa403f
 
 

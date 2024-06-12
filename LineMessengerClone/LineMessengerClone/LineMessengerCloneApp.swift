@@ -7,16 +7,25 @@
 
 import SwiftUI
 
-/*
- @main
- App Protocol - main 함수의 기본 구현 제공
- ScenePhase
- */
+
 @main
 struct LineMessengerCloneApp: App {
+    @Environment(\.scenePhase) private var scenePhase
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+        }.onChange(of: scenePhase) { newScenePhase in
+            switch newScenePhase {
+            case .active:
+                break
+            case .inactive:
+                break
+            case .background:
+                break
+            @unknown default:
+                break
+            }
         }
     }
 }

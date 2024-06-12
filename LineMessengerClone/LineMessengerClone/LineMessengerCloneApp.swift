@@ -11,10 +11,13 @@ import SwiftUI
 @main
 struct LineMessengerCloneApp: App {
     @Environment(\.scenePhase) private var scenePhase
+    @StateObject var container: DIContainer = DIContainer(service: Services())
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AuthenticatedView(authViewModel: .init())
+                .environmentObject(container)
+            
         }.onChange(of: scenePhase) { newScenePhase in
             switch newScenePhase {
             case .active:

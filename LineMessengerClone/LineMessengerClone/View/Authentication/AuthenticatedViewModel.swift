@@ -7,13 +7,21 @@
 
 import Foundation
 
+enum AuthenticationState {
+    case unauthenticated
+    case authenticated
+}
+
 class AuthenticatedViewModel: ObservableObject {
+    
+    @Published var authenticationState: AuthenticationState = .unauthenticated
+    
     private var container: DIContainer
     
     init(container: DIContainer) {
         self.container = container
         
-   //     container.service.authService
+       // container.service.authService
     }
     
     

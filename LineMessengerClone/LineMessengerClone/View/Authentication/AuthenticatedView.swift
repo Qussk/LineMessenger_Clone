@@ -11,13 +11,17 @@ struct AuthenticatedView: View {
     @StateObject var authViewModel: AuthenticatedViewModel
     
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        switch authViewModel.authenticationState {
+        case .unauthenticated:
+            //TODO: LoginView
+          
+            LoginIntroView()
+            
+        case .authenticated:
+            //TODO: MainTabView
+            
+            MainTabView()
         }
-        .padding()
     }
 }
 

@@ -10,9 +10,11 @@ import SwiftUI
 
 @main
 struct LineMessengerCloneApp: App {
-    @Environment(\.scenePhase) private var scenePhase
-    @StateObject var container: DIContainer = DIContainer(service: Services())
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate //UIKit의 앱딜이랑 이어주는 것.
     
+    @StateObject var container: DIContainer = DIContainer(service: Services())
+    @Environment(\.scenePhase) private var scenePhase
+
     var body: some Scene {
         WindowGroup {
             AuthenticatedView(authViewModel: .init())

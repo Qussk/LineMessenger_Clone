@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-  //test
+
 struct AuthenticatedView: View {
     @StateObject var authViewModel: AuthenticatedViewModel
     
@@ -22,5 +22,5 @@ struct AuthenticatedView: View {
 }
 
 #Preview {
-    AuthenticatedView(authViewModel: .init())
+    AuthenticatedView(authViewModel: .init(container: .init(service: StubServices())))
 }

@@ -21,3 +21,9 @@ class Services: ServicesType {
     }
     
 }
+
+
+class StubServices: ServicesType {
+    var authService: AuthenticationServiceType = StubAuthenticationService()
+    
+}

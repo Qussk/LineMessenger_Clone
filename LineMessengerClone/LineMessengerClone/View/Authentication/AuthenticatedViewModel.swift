@@ -7,7 +7,14 @@
 
 import Foundation
 
-
 class AuthenticatedViewModel: ObservableObject {
+    private var container: DIContainer
+    
+    init(container: DIContainer) {
+        self.container = container
+        
+   //     container.service.authService
+    }
+    
     
 }

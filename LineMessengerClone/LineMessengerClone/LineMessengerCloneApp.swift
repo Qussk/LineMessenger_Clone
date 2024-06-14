@@ -17,7 +17,7 @@ struct LineMessengerCloneApp: App {
 
     var body: some Scene {
         WindowGroup {
-            AuthenticatedView(authViewModel: .init())
+            AuthenticatedView(authViewModel: .init(container: container))
                 .environmentObject(container)
             
         }.onChange(of: scenePhase) { newScenePhase in

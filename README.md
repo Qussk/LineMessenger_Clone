@@ -2,8 +2,7 @@
 
 
 ## Spec
--------------
-  
+***  
   
 Target: 16.0 이상
 Xcode: 14.3 이상
@@ -12,8 +11,7 @@ SwiftUI: 4.0 이상
 
 
 ## Skils
--------------
-  
+***  
   
   
 Combine, SwiftUI, Firebase, GCD(Swift Concureency), XCTest, APNs(Remote Notification)
@@ -21,8 +19,7 @@ Combine, SwiftUI, Firebase, GCD(Swift Concureency), XCTest, APNs(Remote Notifica
 
 
 ## 프로젝트 목적 
--------------
-  
+***  
   
 SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝. 
 
@@ -30,8 +27,7 @@ SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝.
 
 
 ## 사전 이론
--------------
-  
+***  
   
 
 ### 🐰 0. Combine 알아보기.
@@ -63,38 +59,35 @@ SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝.
 
 
 ## 프로젝트 내용
--------------
-  
+***  
   
 
 ### 로그인 구현
 
-#### SwiftUI APP Life Cycle,  로그인 구조도
+* SwiftUI APP Life Cycle,  로그인 구조도
 : https://www.notion.so/qussk/SwiftUI-APP-Life-Cycle-4f87f95028a641489866eac72dd06ea6
 
-#### FirebaseAuth
+* FirebaseAuth
 : https://www.notion.so/qussk/FirebaseAuth-9552b49b839248e39880859608c1b919
   
   
   
-#### 로그인 UI구성
+* 로그인 UI구성
 : https://www.notion.so/qussk/UI-9d706cf44d234352b0bd529519440860
 
 
-#### Google 로그인 구현
+* Google 로그인 구현
 : 
 
 
 
 ## 단위 테스트
--------------
-
+***
 
 
 
 ## 접근성
--------------
-
+***
 
 
 

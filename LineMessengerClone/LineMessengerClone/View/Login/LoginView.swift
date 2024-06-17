@@ -14,6 +14,8 @@ enum longinTitle: String {
 
 struct LoginView: View {
     @Environment(\.dismiss) var dismiss
+    @EnvironmentObject var authViewModel: AuthenticatedViewModel
+    
     var body: some View {
       
         VStack(alignment: .leading) {
@@ -35,6 +37,8 @@ struct LoginView: View {
             
             
             Button {
+            //google
+                authViewModel.send(action: .googleLogin)
                 
             } label: {
                 Text(longinTitle.google.rawValue)
@@ -43,6 +47,7 @@ struct LoginView: View {
             
             
             Button {
+            //apple
                 
             } label: {
                 Text(longinTitle.apple.rawValue)

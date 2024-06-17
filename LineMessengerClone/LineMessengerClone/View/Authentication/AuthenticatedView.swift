@@ -16,6 +16,7 @@ struct AuthenticatedView: View {
             //TODO: LoginView
           
             LoginIntroView()
+                .environmentObject(authViewModel)
             
         case .authenticated:
             //TODO: MainTabView

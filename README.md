@@ -68,7 +68,8 @@ SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝.
   
   
   
-#### 
+#### 로그인 UI구성
+: https://www.notion.so/qussk/UI-9d706cf44d234352b0bd529519440860
 
 
 

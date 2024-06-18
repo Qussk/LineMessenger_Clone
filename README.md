@@ -27,39 +27,43 @@ SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝.
 
   
 
-### 🐰 0. Combine 알아보기.
+### 🐰 0. Combine 알아보기. 🐰
 * https://www.notion.so/qussk/Combine-6cc3c81af1e04ab085999dc01baa403f
   
   
 
-### 🐤 1. SwiftUI 더 깊게 파헤치기.
+### 🐤 1. SwiftUI 더 깊게 파헤치기. 🐤
 
   
   
-#### *[레이아웃] SwiftUI의 ViewLayout 결정 과정과 Lazy Layout Container 알아보기.* 
+#### * SwiftUI의 ViewLayout 결정 과정과 Lazy Layout Container 알아보기.* 
 * https://www.notion.so/qussk/SwiftUI-ViewLayout-Lazy-Layout-Container-8e5b97cecf7a4a92b792c92e44b246ba
   
   
 
-#### *[데이터구조] SwiftUI의 데이터 흐름 및 데이터 관리 알아보기.*  
+#### * SwiftUI의 데이터 흐름 및 데이터 관리 알아보기.*  
 * https://www.notion.so/qussk/SwiftUI-6c0e655cce5249a49d48033efc47a95d
   
   
 
-#### *[내부작동원리]*
-:
+#### * SwiftUI의 내부 작동 원리 이해하기.*
+* https://www.notion.so/qussk/SwiftUI-2eca059bb3fc4221a4db20d2f3c54fc4
+ 
+ 
+#### * 네트워크 통신 및 아키텍처* 
+ * : 
 
 
-### 🌟 2.네트워크 통신 및 아키텍처
+
+### 🌟 2.네트워크 통신 및 아키텍처 🌟
   
   
 
 
 ## 프로젝트 내용
-***  
   
 
-### 로그인 구현
+### [로그인 구현]
 
 * SwiftUI APP Life Cycle,  로그인 구조도
     * https://www.notion.so/qussk/SwiftUI-APP-Life-Cycle-4f87f95028a641489866eac72dd06ea6
@@ -74,7 +78,7 @@ SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝.
 
 
 * Google 로그인 구현
-: 
+    * https://www.notion.so/qussk/google-d13801ccad234ccf88998fa16e5a8e58
 
 
 

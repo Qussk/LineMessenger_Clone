@@ -29,20 +29,20 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
 : https://www.notion.so/qussk/Combine-6cc3c81af1e04ab085999dc01baa403f
 <br/>
 ### 2. SwiftUI 더 깊게 파헤치기.
-*SwiftUI의 ViewLayout 결정 과정과 Lazy Layout Container 알아보기.* <br/>
+* *SwiftUI의 ViewLayout 결정 과정과 Lazy Layout Container 알아보기.* <br/>
 : https://www.notion.so/qussk/SwiftUI-ViewLayout-Lazy-Layout-Container-8e5b97cecf7a4a92b792c92e44b246ba
 <br/>
-*SwiftUI의 데이터 흐름 및 데이터 관리 알아보기.*<br/>
+* *SwiftUI의 데이터 흐름 및 데이터 관리 알아보기.*<br/>
 : https://www.notion.so/qussk/SwiftUI-6c0e655cce5249a49d48033efc47a95d
 <br/>
-*SwiftUI의 내부 작동 원리 이해하기.*<br/>
+* *SwiftUI의 내부 작동 원리 이해하기.*<br/>
 : https://www.notion.so/qussk/SwiftUI-2eca059bb3fc4221a4db20d2f3c54fc4  
 <br/>
 ### 3.네트워크 통신 및 아키텍처 
-*네트워크 통신 및 Firebase.*<br/>
+* *네트워크 통신 및 Firebase.*<br/>
 : https://www.notion.so/qussk/Firebase-0ced70ff47234071b63b18a944da03e3
 <br/>  
-*MVVM 아키텍처.*<br/>
+* *MVVM 아키텍처.*<br/>
 : https://www.notion.so/qussk/MVVM-3c5dcc67637e4aa383c109002ca489ad
 <br/>
 <br/>

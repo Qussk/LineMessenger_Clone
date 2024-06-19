@@ -3,27 +3,32 @@
 
 ## Spec
   
-Target: 16.0
-Xcode: 15.4
-SwiftUI: 4.0
+Target: 16.0  
+
+Xcode: 15.4  
+ 
+SwiftUI: 4.0  
 
 
 
 ## Skils
   
   
-Combine, SwiftUI, Firebase, GCD(Swift Concureency), XCTest, APNs(Remote Notification)
+🛠️ Combine, SwiftUI, Firebase, GCD(Swift Concureency), XCTest, APNs(Remote Notification)
 
 
 
 ## 프로젝트 목적 
   
   
-SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝. 
+SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.  
+  
+  
 (스유는 유지보수만 해왔던지라,, 모디파이등 커스텀한 것만 사용해와서,, 기초를 보강하기 위한 트레이닝,, 구구절절)
-
-
-
+  
+  
+  
+  
 
 ## 사전 이론
 
@@ -52,8 +57,11 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
 * https://www.notion.so/qussk/SwiftUI-2eca059bb3fc4221a4db20d2f3c54fc4
  
  
-#### * 네트워크 통신 및 아키텍처* 
- * : 
+#### * 네트워크 통신 및 아키텍처*   
+  
+  
+ * 네트워크 통신 및 Firebase 알아보기.
+    * https://www.notion.so/qussk/Firebase-0ced70ff47234071b63b18a944da03e3
 
 
 
@@ -92,7 +100,10 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
 * Firebase Realtime Database
     * https://www.notion.so/qussk/Firebase-Realtime-Database-4eda63866bd546f3a4e41fc3260dac65
 
-
+* DB구조 구성 및 구현
+    * https://www.notion.so/qussk/DB-ac0d0ac1110b40a7a331441aa6a7c74f
+    
+    
 
 ## 단위 테스트
 ***

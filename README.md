@@ -1,7 +1,7 @@
 # LineMessenger_Clone
 
 
-## Spec
+## 🦾 Spec
   
 Target: 16.0  
 
@@ -11,14 +11,14 @@ SwiftUI: 4.0
 
 
 
-## Skils
+## 🛠️ Skils
   
   
-🛠️ Combine, SwiftUI, Firebase, GCD(Swift Concureency), XCTest, APNs(Remote Notification)
+ Combine, SwiftUI, Firebase, GCD(Swift Concureency), XCTest, APNs(Remote Notification)
 
 
 
-## 프로젝트 목적 
+## 😮‍💨 프로젝트 목적 
   
   
 SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.  
@@ -30,7 +30,7 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
   
   
 
-## 사전 이론
+## 🙄 사전 이론
 
   
 
@@ -40,44 +40,41 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
   
 
 ### 🐤 1. SwiftUI 더 깊게 파헤치기. 🐤
-
   
   
-#### * SwiftUI의 ViewLayout 결정 과정과 Lazy Layout Container 알아보기.* 
+#### *SwiftUI의 ViewLayout 결정 과정과 Lazy Layout Container 알아보기.* 
 * https://www.notion.so/qussk/SwiftUI-ViewLayout-Lazy-Layout-Container-8e5b97cecf7a4a92b792c92e44b246ba
   
   
 
-#### * SwiftUI의 데이터 흐름 및 데이터 관리 알아보기.*  
+#### *SwiftUI의 데이터 흐름 및 데이터 관리 알아보기.*  
 * https://www.notion.so/qussk/SwiftUI-6c0e655cce5249a49d48033efc47a95d
   
   
 
-#### * SwiftUI의 내부 작동 원리 이해하기.*
-* https://www.notion.so/qussk/SwiftUI-2eca059bb3fc4221a4db20d2f3c54fc4
- 
- 
-#### * 네트워크 통신 및 아키텍처*   
+#### *SwiftUI의 내부 작동 원리 이해하기.*
+* https://www.notion.so/qussk/SwiftUI-2eca059bb3fc4221a4db20d2f3c54fc4  
   
   
-* 네트워크 통신 및 Firebase 알아보기.
+  
+ 
+### 🌟 2.네트워크 통신 및 아키텍처 🌟
+  
+#### *네트워크 통신 및 Firebase.*
     * https://www.notion.so/qussk/Firebase-0ced70ff47234071b63b18a944da03e3
   
   
-* MVVM 아키텍처 알아보기.
+#### *MVVM 아키텍처.*
     * https://www.notion.so/qussk/MVVM-3c5dcc67637e4aa383c109002ca489ad
     
     
-
-### 🌟 2.네트워크 통신 및 아키텍처 🌟
+      
   
-  
-
 
 ## 프로젝트 내용
   
 
-### [로그인]
+### 로그인
 
 * SwiftUI APP Life Cycle,  로그인 구조도
     * https://www.notion.so/qussk/SwiftUI-APP-Life-Cycle-4f87f95028a641489866eac72dd06ea6
@@ -95,7 +92,7 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
     * https://www.notion.so/qussk/google-d13801ccad234ccf88998fa16e5a8e58
 
 
-### [홈]
+### 홈
 
 * UI구성
     * https://www.notion.so/qussk/UI-5b2cdeeb944848298480cb23cd893746
@@ -110,18 +107,18 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
     
 
 
-### [프로필]
+### 프로필
 
-### [채팅]
+### 채팅
 
-### [검색]
+### 검색
 
-### [설정]
+### 설정
+
 
 
 ## 단위 테스트
 ***
-
 
 
 ## 접근성

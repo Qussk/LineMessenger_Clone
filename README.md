@@ -18,7 +18,9 @@ Combine, SwiftUI, Firebase, GCD(Swift Concureency), XCTest, APNs(Remote Notifica
 
 ## 프로젝트 목적 
   
-SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝. 
+  
+SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝. 
+(스유는 유지보수만 해왔던지라,, 모디파이등 커스텀한 것만 사용해와서,, 기초를 보강하기 위한 트레이닝,, 구구절절)
 
 
 

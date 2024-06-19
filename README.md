@@ -60,10 +60,14 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
 #### * 네트워크 통신 및 아키텍처*   
   
   
- * 네트워크 통신 및 Firebase 알아보기.
+* 네트워크 통신 및 Firebase 알아보기.
     * https://www.notion.so/qussk/Firebase-0ced70ff47234071b63b18a944da03e3
-
-
+  
+  
+* MVVM 아키텍처 알아보기.
+    * https://www.notion.so/qussk/MVVM-3c5dcc67637e4aa383c109002ca489ad
+    
+    
 
 ### 🌟 2.네트워크 통신 및 아키텍처 🌟
   
@@ -104,6 +108,16 @@ SwiftUI + MVVM + Combine을 통한 기본 이론공부 및 실습 트레이닝.
     * https://www.notion.so/qussk/DB-ac0d0ac1110b40a7a331441aa6a7c74f
     
     
+
+
+### [프로필]
+
+### [채팅]
+
+### [검색]
+
+### [설정]
+
 
 ## 단위 테스트
 ***

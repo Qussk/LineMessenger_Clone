@@ -3,9 +3,9 @@
 
 ## Spec
   
-Target: 16.0 이상
-Xcode: 14.3 이상
-SwiftUI: 4.0 이상
+Target: 16.0
+Xcode: 15.4
+SwiftUI: 4.0
 
 
 
@@ -82,14 +82,17 @@ SwiftUI + MVVM + Combine을 통한 이론공부 및 실습 트레이닝.
 
 
 * Apple 로그인 구현
-(유료계정 끝나서 패스)
+(유료계정 끝나서 패스,,)
 
 
 ### [홈]
 
-* Firebase Realtime Database
-    * https://www.notion.so/qussk/Firebase-Realtime-Database-5b2cdeeb944848298480cb23cd893746
+* UI구성
+    * https://www.notion.so/qussk/UI-5b2cdeeb944848298480cb23cd893746
 
+
+* Firebase Realtime Database
+    * https://www.notion.so/qussk/Firebase-Realtime-Database-4eda63866bd546f3a4e41fc3260dac65
 
 
 
